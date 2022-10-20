@@ -88,3 +88,5 @@ adicionarFilme({
 const listarFilmescomLongaDuracao = () => {
     return catalogo.filter((filme) => filme.duracao > 2)
 }
+
+console.log('Olá')
